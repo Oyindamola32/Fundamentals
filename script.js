@@ -416,7 +416,7 @@ if (scoreDolphins > scoreKoalas && scoreDolphins >= 100) {
   console.log('Both win the trophy!');
 } else {
   console.log('No one wins the trophy 😭');
-  */
+  
 
 
 ////////////////////////////////////
@@ -460,3 +460,17 @@ if (day === 'monday') {
 } else {
   console.log('Not a valid day!');
 }
+*/
+
+////////////////////////////////////
+// Statements and Expressions
+3 + 4
+1991
+true && false && !false
+
+if (23 > 10) {
+  const str = '23 is bigger';
+}
+
+const me = 'Jonas';
+console.log(`I'm ${2037 - 1991} years old ${me}`);
